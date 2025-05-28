@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nivetha
 - 👀 I’m interested in front end roles,  assistant developer, designer roles...
-- 🌱 I’m currently learning dsa,java...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning dsa,java,html,css
+- 💞️ I’m looking to collaborate on web development projects, open source contributions, or anything tech-related that involves creativity and problem-solving. Let’s build something awesome together!
 - 📫 How to reach me  ...> nivethavelu743@gmail.com
 - 😄 Pronouns: ...> her/she
 - ⚡ Fun fact: ...>👨‍💻 My code runs better at midnight, just like my brain.
