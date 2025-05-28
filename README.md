@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ...> nivethavelu743@gmail.com
 - 😄 Pronouns: ...> her/she
-- ⚡ Fun fact: ...>👨‍💻 Engineer by degree, developer by passion.
+- ⚡ Fun fact: ...>👨‍💻 My code runs better at midnight, just like my brain.
 
 <!---
 24nivetha/24nivetha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
